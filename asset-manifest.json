@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTemp/static/css/main.9aa63bef.css",
+    "main.js": "/ReactTemp/static/js/main.0104b721.js",
+    "index.html": "/ReactTemp/index.html",
+    "main.9aa63bef.css.map": "/ReactTemp/static/css/main.9aa63bef.css.map",
+    "main.0104b721.js.map": "/ReactTemp/static/js/main.0104b721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa63bef.css",
+    "static/js/main.0104b721.js"
+  ]
+}

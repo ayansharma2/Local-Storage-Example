@@ -1,0 +1,18 @@
+body {
+  background-color: yellowgreen;
+}
+
+temp {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  text-align: center;
+  margin: 20px 0px 0px 20px;
+  min-height: 100vh;
+}
+
+titleText {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 40px;
+}
